@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mademade.site" resolutions="1x" timestamp="1543494970875">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mademade.site" resolutions="1x" timestamp="1543495270170">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4133871094" ref="index"/>
+    <file name="index.css" crc="3862985359" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -12,6 +12,7 @@
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
+    <file name="made-made-design-favicon.ico" crc="197859559" ref="index"/>
     <file name="logo.svg" crc="4117507740" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -29,5 +30,5 @@
     </file>
     <file name="instagram-logo_poster_.png" crc="403712727" ref="index"/>
   </folder>
-  <file name="index.html" crc="4118203176" seo="true" mt="1543494814625" redirect="true"/>
+  <file name="index.html" crc="4179041169" seo="true" mt="1543495229281" redirect="true"/>
 </manifest>
